@@ -13,7 +13,6 @@ import java.util.Map;
 
 public class PokemonJsonModelMapper {
 
-
     public static List<Pokemon> map(Collection<PokemonJsonModel> inputList, Map<String, PokemonType> types) {
         List<Pokemon> outputList = new ArrayList<>(inputList.size());
         for (PokemonJsonModel inputItem : inputList) {
@@ -28,23 +27,33 @@ public class PokemonJsonModelMapper {
                 .number(input.number)
                 .name(capitalize(input.name))
                 .colorArgb(colorWithAlpha(Color.parseColor(input.colorHex)))
+                .strengths(mapStrengths(input.strengths, types))
                 .weaknesses(mapWeaknesses(input.weaknesses, types))
                 .build();
     }
 
-    private static List<PokemonType> mapWeaknesses(String[] input, Map<String, PokemonType> types) {
-        List<PokemonType> output = new ArrayList<>(input.length);
-        for (String weakness : input) {
-            output.add(types.get(weakness));
-        }
-        return output;
+    private static List<PokemonType> mapStrengths(String[] input, Map<String, PokemonType> types) {
+      List<PokemonType> output = new ArrayList<>(input.length);
+      for (String strengths : input) {
+        output.add(types.get(strengths));
+      }
+      return output;
     }
 
-    private static String capitalize(final String line) {
+    private static List<PokemonType> mapWeaknesses(String[] input, Map<String, PokemonType> types) {
+      List<PokemonType> output = new ArrayList<>(input.length);
+      for (String weakness : input) {
+        output.add(types.get(weakness));
+      }
+      return output;
+    }
+
+  private static String capitalize(final String line) {
         return Character.toUpperCase(line.charAt(0)) + line.substring(1);
     }
 
     private static int colorWithAlpha(int color) {
         return (color & 0x00FFFFFF) | 0xCC000000; // 80% alpha = #CC
     }
+
 }
