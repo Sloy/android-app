@@ -11,6 +11,7 @@ public class Pokemon {
     private final String displayNumber;
     private final String name;
     private final int colorArgb;
+    private final List<PokemonType> types;
     private final List<PokemonType> strengths;
     private final List<PokemonType> weaknesses;
 
@@ -23,6 +24,7 @@ public class Pokemon {
         name = builder.name;
         colorArgb = builder.colorArgb;
         displayNumber = NumberFormatter.getDisplayNumber(number);
+        types = builder.types;
         strengths = builder.strengths;
         weaknesses = builder.weaknesses;
     }
@@ -43,6 +45,10 @@ public class Pokemon {
         return colorArgb;
     }
 
+    public List<PokemonType> types() {
+    return types;
+  }
+
     public List<PokemonType> strengths() {
     return strengths;
   }
@@ -61,6 +67,7 @@ public class Pokemon {
         if (number != pokemon.number) return false;
         if (colorArgb != pokemon.colorArgb) return false;
         if (!displayNumber.equals(pokemon.displayNumber)) return false;
+        if (!types.equals(pokemon.types)) return false;
         if (!strengths.equals(pokemon.strengths)) return false;
         if (!name.equals(pokemon.name)) return false;
         return weaknesses.equals(pokemon.weaknesses);
@@ -72,6 +79,7 @@ public class Pokemon {
         result = 31 * result + (displayNumber != null ? displayNumber.hashCode() : 0);
         result = 31 * result + (name != null ? name.hashCode() : 0);
         result = 31 * result + colorArgb;
+        result = 31 * result + (types != null ? types.hashCode() : 0);
         result = 31 * result + (strengths != null ? strengths.hashCode() : 0);
         result = 31 * result + (weaknesses != null ? weaknesses.hashCode() : 0);
         return result;
@@ -84,6 +92,7 @@ public class Pokemon {
                 ", displayNumber='" + displayNumber + '\'' +
                 ", name='" + name + '\'' +
                 ", colorArgb=" + colorArgb +
+                ", types=" + types +
                 ", strengths=" + strengths +
                 ", weaknesses=" + weaknesses +
                 '}';
@@ -93,6 +102,7 @@ public class Pokemon {
         private int number;
         private String name;
         private int colorArgb;
+        private List<PokemonType> types;
         private List<PokemonType> strengths;
         private List<PokemonType> weaknesses;
 
@@ -112,6 +122,11 @@ public class Pokemon {
         public Builder colorArgb(int colorArgb) {
             this.colorArgb = colorArgb;
             return this;
+        }
+
+        public Builder types(List<PokemonType> types) {
+          this.types = types;
+          return this;
         }
 
         public Builder strengths(List<PokemonType> strengths) {

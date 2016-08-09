@@ -27,9 +27,18 @@ public class PokemonJsonModelMapper {
                 .number(input.number)
                 .name(capitalize(input.name))
                 .colorArgb(colorWithAlpha(Color.parseColor(input.colorHex)))
+                .types(mapTypes(input.types, types))
                 .strengths(mapStrengths(input.strengths, types))
                 .weaknesses(mapWeaknesses(input.weaknesses, types))
                 .build();
+    }
+
+    private static List<PokemonType> mapTypes(String[] input, Map<String, PokemonType> types) {
+      List<PokemonType> output = new ArrayList<>(input.length);
+      for (String pokeTypes : input) {
+        output.add(types.get(pokeTypes));
+      }
+      return output;
     }
 
     private static List<PokemonType> mapStrengths(String[] input, Map<String, PokemonType> types) {
