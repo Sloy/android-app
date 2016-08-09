@@ -1,6 +1,14 @@
 [
   {
     "colorHex": "#82C4A1",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "strengths": [
+      "water",
+      "fairy"
+    ],
     "weaknesses": [
       "fire",
       "flying",
@@ -12,6 +20,14 @@
   },
   {
     "colorHex": "#88BCC1",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "strengths": [
+      "water",
+      "fairy"
+    ],
     "weaknesses": [
       "fire",
       "flying",
@@ -23,6 +39,14 @@
   },
   {
     "colorHex": "#30787E",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "strengths": [
+      "water",
+      "fairy"
+    ],
     "weaknesses": [
       "fire",
       "flying",
@@ -34,6 +58,15 @@
   },
   {
     "colorHex": "#E9AA78",
+    "types": [
+      "fire"
+    ],
+    "strengths": [
+      "bug",
+      "steel",
+      "grass",
+      "ice"
+    ],
     "weaknesses": [
       "ground",
       "rock",
@@ -44,6 +77,15 @@
   },
   {
     "colorHex": "#C75140",
+    "types": [
+      "fire"
+    ],
+    "strengths": [
+      "bug",
+      "steel",
+      "grass",
+      "ice"
+    ],
     "weaknesses": [
       "ground",
       "rock",
@@ -54,6 +96,16 @@
   },
   {
     "colorHex": "#EFA257",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "strengths": [
+      "bug",
+      "fighting",
+      "grass",
+      "ice"
+    ],
     "weaknesses": [
       "rock",
       "electric",
@@ -64,6 +116,14 @@
   },
   {
     "colorHex": "#5596AF",
+    "types": [
+      "water"
+    ],
+    "strengths": [
+      "rock",
+      "ground",
+      "fire"
+    ],
     "weaknesses": [
       "electric",
       "grass"
@@ -73,6 +133,14 @@
   },
   {
     "colorHex": "#A8B9DF",
+    "types": [
+      "water"
+    ],
+    "strengths": [
+      "rock",
+      "ground",
+      "fire"
+    ],
     "weaknesses": [
       "electric",
       "grass"
@@ -82,6 +150,14 @@
   },
   {
     "colorHex": "#5778B2",
+    "types": [
+      "water"
+    ],
+    "strengths": [
+      "rock",
+      "ground",
+      "fire"
+    ],
     "weaknesses": [
       "electric",
       "grass"
@@ -91,6 +167,14 @@
   },
   {
     "colorHex": "#65984B",
+    "types": [
+      "bug"
+    ],
+    "strengths": [
+      "grass",
+      "psychic",
+      "dark"
+    ],
     "weaknesses": [
       "fire",
       "flying",
@@ -101,6 +185,14 @@
   },
   {
     "colorHex": "#76A839",
+    "types": [
+      "bug"
+    ],
+    "strengths": [
+      "grass",
+      "psychic",
+      "dark"
+    ],
     "weaknesses": [
       "fire",
       "flying",
@@ -111,6 +203,16 @@
   },
   {
     "colorHex": "#4B4368",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "strengths": [
+      "bug",
+      "grass",
+      "psychic",
+      "dark"
+    ],
     "weaknesses": [
       "rock",
       "electric",
@@ -123,6 +225,15 @@
   },
   {
     "colorHex": "#BD9452",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "strengths": [
+      "grass",
+      "psychic",
+      "dark"
+    ],
     "weaknesses": [
       "fire",
       "flying",
@@ -134,6 +245,15 @@
   },
   {
     "colorHex": "#9C9452",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "strengths": [
+      "grass",
+      "psychic",
+      "dark"
+    ],
     "weaknesses": [
       "fire",
       "flying",
@@ -145,6 +265,15 @@
   },
   {
     "colorHex": "#7B7B8B",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "strengths": [
+      "grass",
+      "psychic",
+      "dark"
+    ],
     "weaknesses": [
       "fire",
       "flying",
@@ -156,6 +285,15 @@
   },
   {
     "colorHex": "#AC8394",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "strengths": [
+      "fighting",
+      "bug",
+      "grass"
+    ],
     "weaknesses": [
       "electric",
       "ice",
@@ -166,6 +304,15 @@
   },
   {
     "colorHex": "#9C525A",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "strengths": [
+      "fighting",
+      "bug",
+      "grass"
+    ],
     "weaknesses": [
       "electric",
       "ice",
@@ -176,6 +323,15 @@
   },
   {
     "colorHex": "#AC945A",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "strengths": [
+      "fighting",
+      "bug",
+      "grass"
+    ],
     "weaknesses": [
       "electric",
       "ice",
@@ -186,6 +342,11 @@
   },
   {
     "colorHex": "#9C73A4",
+    "types": [
+      "normal"
+    ],
+    "strengths": [
+    ],
     "weaknesses": [
       "fighting"
     ],
@@ -194,6 +355,11 @@
   },
   {
     "colorHex": "#947B52",
+    "types": [
+      "normal"
+    ],
+    "strengths": [
+    ],
     "weaknesses": [
       "fighting"
     ],
@@ -202,6 +368,15 @@
   },
   {
     "colorHex": "#A46A6A",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "strengths": [
+      "fighting",
+      "bug",
+      "grass"
+    ],
     "weaknesses": [
       "electric",
       "ice",
@@ -212,6 +387,15 @@
   },
   {
     "colorHex": "#7B6262",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "strengths": [
+      "fighting",
+      "bug",
+      "grass"
+    ],
     "weaknesses": [
       "electric",
       "ice",
@@ -222,6 +406,13 @@
   },
   {
     "colorHex": "#7B527B",
+    "types": [
+      "poison"
+    ],
+    "strengths": [
+      "grass",
+      "fairy"
+    ],
     "weaknesses": [
       "ground",
       "psychic"
@@ -231,6 +422,13 @@
   },
   {
     "colorHex": "#837B94",
+    "types": [
+      "poison"
+    ],
+    "strengths": [
+      "grass",
+      "fairy"
+    ],
     "weaknesses": [
       "ground",
       "psychic"
@@ -240,6 +438,13 @@
   },
   {
     "colorHex": "#9C8B4A",
+    "types": [
+      "electric"
+    ],
+    "strengths": [
+      "flying",
+      "water"
+    ],
     "weaknesses": [
       "ground"
     ],
@@ -248,6 +453,13 @@
   },
   {
     "colorHex": "#B49C5A",
+    "types": [
+      "electric"
+    ],
+    "strengths": [
+      "flying",
+      "water"
+    ],
     "weaknesses": [
       "ground"
     ],
@@ -256,6 +468,16 @@
   },
   {
     "colorHex": "#AC9C62",
+    "types": [
+      "ground"
+    ],
+    "strengths": [
+      "poison",
+      "rock",
+      "steel",
+      "fire",
+      "electric"
+    ],
     "weaknesses": [
       "grass",
       "ice",
@@ -266,6 +488,16 @@
   },
   {
     "colorHex": "#AC944A",
+    "types": [
+      "ground"
+    ],
+    "strengths": [
+      "poison",
+      "rock",
+      "steel",
+      "fire",
+      "electric"
+    ],
     "weaknesses": [
       "grass",
       "ice",
@@ -276,6 +508,13 @@
   },
   {
     "colorHex": "#8383AC",
+    "types": [
+      "poison"
+    ],
+    "strengths": [
+      "grass",
+      "fairy"
+    ],
     "weaknesses": [
       "ground",
       "psychic"
@@ -285,6 +524,13 @@
   },
   {
     "colorHex": "#62839C",
+    "types": [
+      "poison"
+    ],
+    "strengths": [
+      "grass",
+      "fairy"
+    ],
     "weaknesses": [
       "ground",
       "psychic"
@@ -294,6 +540,15 @@
   },
   {
     "colorHex": "#527BA4",
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "strengths": [
+      "fire",
+      "electric",
+      "fairy"
+    ],
     "weaknesses": [
       "ground",
       "ice",
@@ -305,6 +560,13 @@
   },
   {
     "colorHex": "#8B5A8B",
+    "types": [
+      "poison"
+    ],
+    "strengths": [
+      "grass",
+      "fairy"
+    ],
     "weaknesses": [
       "ground",
       "psychic"
@@ -314,6 +576,13 @@
   },
   {
     "colorHex": "#946A94",
+    "types": [
+      "poison"
+    ],
+    "strengths": [
+      "grass",
+      "fairy"
+    ],
     "weaknesses": [
       "ground",
       "psychic"
@@ -323,6 +592,15 @@
   },
   {
     "colorHex": "#A46A9C",
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "strengths": [
+      "fire",
+      "electric",
+      "fairy"
+    ],
     "weaknesses": [
       "ground",
       "ice",
@@ -334,6 +612,14 @@
   },
   {
     "colorHex": "#f6ced5",
+    "types": [
+      "fairy"
+    ],
+    "strengths": [
+      "fighting",
+      "dragon",
+      "dark"
+    ],
     "weaknesses": [
       "steel",
       "poison"
@@ -343,6 +629,14 @@
   },
   {
     "colorHex": "#A47B83",
+    "types": [
+      "fairy"
+    ],
+    "strengths": [
+      "fighting",
+      "dragon",
+      "dark"
+    ],
     "weaknesses": [
       "steel",
       "poison"
@@ -352,6 +646,15 @@
   },
   {
     "colorHex": "#bc7b5b",
+    "types": [
+      "fire"
+    ],
+    "strengths": [
+      "bug",
+      "steel",
+      "grass",
+      "ice"
+    ],
     "weaknesses": [
       "ground",
       "rock",
@@ -362,6 +665,15 @@
   },
   {
     "colorHex": "#8B8352",
+    "types": [
+      "fire"
+    ],
+    "strengths": [
+      "bug",
+      "steel",
+      "grass",
+      "ice"
+    ],
     "weaknesses": [
       "ground",
       "rock",
@@ -372,6 +684,15 @@
   },
   {
     "colorHex": "#f2cdd7",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "strengths": [
+      "fighting",
+      "dragon",
+      "dark"
+    ],
     "weaknesses": [
       "steel",
       "poison"
@@ -381,6 +702,15 @@
   },
   {
     "colorHex": "#947B7B",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "strengths": [
+      "fighting",
+      "dragon",
+      "dark"
+    ],
     "weaknesses": [
       "steel",
       "poison"
@@ -390,6 +720,16 @@
   },
   {
     "colorHex": "#8B4A83",
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "strengths": [
+      "fighting",
+      "bug",
+      "grass",
+      "fairy"
+    ],
     "weaknesses": [
       "electric",
       "ice",
@@ -401,6 +741,16 @@
   },
   {
     "colorHex": "#944A8B",
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "strengths": [
+      "fighting",
+      "bug",
+      "grass",
+      "fairy"
+    ],
     "weaknesses": [
       "electric",
       "ice",
@@ -412,6 +762,14 @@
   },
   {
     "colorHex": "#7BB45A",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "strengths": [
+      "water",
+      "fairy"
+    ],
     "weaknesses": [
       "fire",
       "flying",
@@ -423,6 +781,14 @@
   },
   {
     "colorHex": "#4A7394",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "strengths": [
+      "water",
+      "fairy"
+    ],
     "weaknesses": [
       "fire",
       "flying",
@@ -434,6 +800,14 @@
   },
   {
     "colorHex": "#415A7B",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "strengths": [
+      "water",
+      "fairy"
+    ],
     "weaknesses": [
       "fire",
       "flying",
@@ -445,6 +819,17 @@
   },
   {
     "colorHex": "#A4526A",
+    "types": [
+      "grass",
+      "bug"
+    ],
+    "strengths": [
+      "rock",
+      "ground",
+      "water",
+      "psychic",
+      "dark"
+    ],
     "weaknesses": [
       "fire",
       "flying",
@@ -458,6 +843,17 @@
   },
   {
     "colorHex": "#9C4A6A",
+    "types": [
+      "grass",
+      "bug"
+    ],
+    "strengths": [
+      "rock",
+      "ground",
+      "water",
+      "psychic",
+      "dark"
+    ],
     "weaknesses": [
       "fire",
       "flying",
@@ -471,6 +867,15 @@
   },
   {
     "colorHex": "#625A94",
+    "types": [
+      "poison",
+      "bug"
+    ],
+    "strengths": [
+      "grass",
+      "psychic",
+      "dark"
+    ],
     "weaknesses": [
       "fire",
       "flying",
@@ -482,6 +887,15 @@
   },
   {
     "colorHex": "#736A8B",
+    "types": [
+      "poison",
+      "bug"
+    ],
+    "strengths": [
+      "grass",
+      "psychic",
+      "dark"
+    ],
     "weaknesses": [
       "fire",
       "flying",
@@ -493,6 +907,16 @@
   },
   {
     "colorHex": "#737373",
+    "types": [
+      "ground"
+    ],
+    "strengths": [
+      "poison",
+      "rock",
+      "steel",
+      "fire",
+      "electric"
+    ],
     "weaknesses": [
       "grass",
       "ice",
@@ -503,6 +927,16 @@
   },
   {
     "colorHex": "#6A6A6A",
+    "types": [
+      "ground"
+    ],
+    "strengths": [
+      "poison",
+      "rock",
+      "steel",
+      "fire",
+      "electric"
+    ],
     "weaknesses": [
       "grass",
       "ice",
@@ -513,6 +947,11 @@
   },
   {
     "colorHex": "#837373",
+    "types": [
+      "normal"
+    ],
+    "strengths": [
+    ],
     "weaknesses": [
       "fighting"
     ],
@@ -521,6 +960,11 @@
   },
   {
     "colorHex": "#9C8B6A",
+    "types": [
+      "normal"
+    ],
+    "strengths": [
+    ],
     "weaknesses": [
       "fighting"
     ],
@@ -529,6 +973,14 @@
   },
   {
     "colorHex": "#B49452",
+    "types": [
+      "water"
+    ],
+    "strengths": [
+      "rock",
+      "ground",
+      "fire"
+    ],
     "weaknesses": [
       "electric",
       "grass"
@@ -538,6 +990,14 @@
   },
   {
     "colorHex": "#4A739C",
+    "types": [
+      "water"
+    ],
+    "strengths": [
+      "rock",
+      "ground",
+      "fire"
+    ],
     "weaknesses": [
       "electric",
       "grass"
@@ -547,6 +1007,16 @@
   },
   {
     "colorHex": "#948B7B",
+    "types": [
+      "fighting"
+    ],
+    "strengths": [
+      "normal",
+      "rock",
+      "steel",
+      "ice",
+      "dark"
+    ],
     "weaknesses": [
       "flying",
       "psychic",
@@ -557,6 +1027,16 @@
   },
   {
     "colorHex": "#6A5A5A",
+    "types": [
+      "fighting"
+    ],
+    "strengths": [
+      "normal",
+      "rock",
+      "steel",
+      "ice",
+      "dark"
+    ],
     "weaknesses": [
       "flying",
       "psychic",
@@ -567,6 +1047,15 @@
   },
   {
     "colorHex": "#BDAC8B",
+    "types": [
+      "fire"
+    ],
+    "strengths": [
+      "bug",
+      "grass",
+      "steel",
+      "ice"
+    ],
     "weaknesses": [
       "ground",
       "rock",
@@ -577,6 +1066,15 @@
   },
   {
     "colorHex": "#525252",
+    "types": [
+      "fire"
+    ],
+    "strengths": [
+      "bug",
+      "grass",
+      "steel",
+      "ice"
+    ],
     "weaknesses": [
       "ground",
       "rock",
@@ -587,6 +1085,14 @@
   },
   {
     "colorHex": "#5A7BB4",
+    "types": [
+      "water"
+    ],
+    "strengths": [
+      "ground",
+      "rock",
+      "fire"
+    ],
     "weaknesses": [
       "electric",
       "grass"
@@ -596,6 +1102,14 @@
   },
   {
     "colorHex": "#527BB4",
+    "types": [
+      "water"
+    ],
+    "strengths": [
+      "ground",
+      "rock",
+      "fire"
+    ],
     "weaknesses": [
       "electric",
       "grass"
@@ -605,6 +1119,19 @@
   },
   {
     "colorHex": "#5A7BA4",
+    "types": [
+      "water",
+      "fighting"
+    ],
+    "strengths": [
+      "normal",
+      "rock",
+      "ground",
+      "steel",
+      "fire",
+      "ice",
+      "dark"
+    ],
     "weaknesses": [
       "electric",
       "flying",
@@ -617,6 +1144,13 @@
   },
   {
     "colorHex": "#948B73",
+    "types": [
+      "psychic"
+    ],
+    "strengths": [
+      "fighting",
+      "poison"
+    ],
     "weaknesses": [
       "bug",
       "dark",
@@ -627,6 +1161,13 @@
   },
   {
     "colorHex": "#948B73",
+    "types": [
+      "psychic"
+    ],
+    "strengths": [
+      "fighting",
+      "poison"
+    ],
     "weaknesses": [
       "bug",
       "dark",
@@ -637,6 +1178,13 @@
   },
   {
     "colorHex": "#9C947B",
+    "types": [
+      "psychic"
+    ],
+    "strengths": [
+      "fighting",
+      "poison"
+    ],
     "weaknesses": [
       "bug",
       "dark",
@@ -647,6 +1195,16 @@
   },
   {
     "colorHex": "#7B8B94",
+    "types": [
+      "fighting"
+    ],
+    "strengths": [
+      "normal",
+      "rock",
+      "steel",
+      "ice",
+      "dark"
+    ],
     "weaknesses": [
       "flying",
       "psychic",
@@ -657,6 +1215,16 @@
   },
   {
     "colorHex": "#83839C",
+    "types": [
+      "fighting"
+    ],
+    "strengths": [
+      "normal",
+      "rock",
+      "steel",
+      "ice",
+      "dark"
+    ],
     "weaknesses": [
       "flying",
       "psychic",
@@ -667,6 +1235,16 @@
   },
   {
     "colorHex": "#737B8B",
+    "types": [
+      "fighting"
+    ],
+    "strengths": [
+      "normal",
+      "rock",
+      "steel",
+      "ice",
+      "dark"
+    ],
     "weaknesses": [
       "flying",
       "psychic",
@@ -677,6 +1255,14 @@
   },
   {
     "colorHex": "#73A46A",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "strengths": [
+      "water",
+      "fairy"
+    ],
     "weaknesses": [
       "fire",
       "flying",
@@ -688,6 +1274,14 @@
   },
   {
     "colorHex": "#73945A",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "strengths": [
+      "water",
+      "fairy"
+    ],
     "weaknesses": [
       "fire",
       "flying",
@@ -699,6 +1293,14 @@
   },
   {
     "colorHex": "#5A9452",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "strengths": [
+      "water",
+      "fairy"
+    ],
     "weaknesses": [
       "fire",
       "flying",
@@ -710,6 +1312,14 @@
   },
   {
     "colorHex": "#4A83A4",
+    "types": [
+      "water",
+      "poison"
+    ],
+    "strengths": [
+      "fire",
+      "fairy"
+    ],
     "weaknesses": [
       "electric",
       "ground",
@@ -720,6 +1330,14 @@
   },
   {
     "colorHex": "#7B7373",
+    "types": [
+      "water",
+      "poison"
+    ],
+    "strengths": [
+      "fire",
+      "fairy"
+    ],
     "weaknesses": [
       "electric",
       "ground",
@@ -730,6 +1348,17 @@
   },
   {
     "colorHex": "#7B7373",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "strengths": [
+      "poison",
+      "rock",
+      "fire",
+      "electric",
+      "ice"
+    ],
     "weaknesses": [
       "grass",
       "water",
@@ -743,6 +1372,17 @@
   },
   {
     "colorHex": "#8B9483",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "strengths": [
+      "poison",
+      "rock",
+      "fire",
+      "electric",
+      "ice"
+    ],
     "weaknesses": [
       "grass",
       "water",
@@ -756,6 +1396,17 @@
   },
   {
     "colorHex": "#5A5252",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "strengths": [
+      "poison",
+      "rock",
+      "fire",
+      "electric",
+      "ice"
+    ],
     "weaknesses": [
       "grass",
       "water",
@@ -769,6 +1420,15 @@
   },
   {
     "colorHex": "#737B83",
+    "types": [
+      "fire"
+    ],
+    "strengths": [
+      "bug",
+      "steel",
+      "grass",
+      "ice"
+    ],
     "weaknesses": [
       "ground",
       "rock",
@@ -779,6 +1439,15 @@
   },
   {
     "colorHex": "#8B4A41",
+    "types": [
+      "fire"
+    ],
+    "strengths": [
+      "bug",
+      "steel",
+      "grass",
+      "ice"
+    ],
     "weaknesses": [
       "ground",
       "rock",
@@ -789,6 +1458,17 @@
   },
   {
     "colorHex": "#946A7B",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "strengths": [
+      "fighting",
+      "poison",
+      "ground",
+      "rock",
+      "fire"
+    ],
     "weaknesses": [
       "bug",
       "dark",
@@ -801,6 +1481,17 @@
   },
   {
     "colorHex": "#AC7B83",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "strengths": [
+      "fighting",
+      "poison",
+      "ground",
+      "rock",
+      "fire"
+    ],
     "weaknesses": [
       "bug",
       "dark",
@@ -813,6 +1504,16 @@
   },
   {
     "colorHex": "#A4625A",
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "strengths": [
+      "ice",
+      "fairy",
+      "flying",
+      "rock"
+    ],
     "weaknesses": [
       "ground",
       "fire",
@@ -823,6 +1524,16 @@
   },
   {
     "colorHex": "#7B7B7B",
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "strengths": [
+      "ice",
+      "fairy",
+      "flying",
+      "rock"
+    ],
     "weaknesses": [
       "ground",
       "fire",
@@ -833,6 +1544,15 @@
   },
   {
     "colorHex": "#9CAC52",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "strengths": [
+      "fighting",
+      "bug",
+      "grass"
+    ],
     "weaknesses": [
       "electric",
       "ice",
@@ -843,6 +1563,15 @@
   },
   {
     "colorHex": "#8B836A",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "strengths": [
+      "fighting",
+      "bug",
+      "grass"
+    ],
     "weaknesses": [
       "electric",
       "ice",
@@ -853,6 +1582,15 @@
   },
   {
     "colorHex": "#A46A62",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "strengths": [
+      "fighting",
+      "bug",
+      "grass"
+    ],
     "weaknesses": [
       "electric",
       "ice",
@@ -863,6 +1601,14 @@
   },
   {
     "colorHex": "#7B7B7B",
+    "types": [
+      "water"
+    ],
+    "strengths": [
+      "rock",
+      "ground",
+      "fire"
+    ],
     "weaknesses": [
       "electric",
       "grass"
@@ -872,6 +1618,15 @@
   },
   {
     "colorHex": "#737B83",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "strengths": [
+      "rock",
+      "ground",
+      "flying"
+    ],
     "weaknesses": [
       "electric",
       "fighting",
@@ -883,6 +1638,13 @@
   },
   {
     "colorHex": "#7B6283",
+    "types": [
+      "poison"
+    ],
+    "strengths": [
+      "grass",
+      "fairy"
+    ],
     "weaknesses": [
       "ground",
       "psychic"
@@ -892,6 +1654,13 @@
   },
   {
     "colorHex": "#6A5A73",
+    "types": [
+      "poison"
+    ],
+    "strengths": [
+      "grass",
+      "fairy"
+    ],
     "weaknesses": [
       "ground",
       "psychic"
@@ -901,6 +1670,14 @@
   },
   {
     "colorHex": "#6A629C",
+    "types": [
+      "water"
+    ],
+    "strengths": [
+      "rock",
+      "ground",
+      "fire"
+    ],
     "weaknesses": [
       "electric",
       "grass"
@@ -910,6 +1687,15 @@
   },
   {
     "colorHex": "#7B738B",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "strengths": [
+      "rock",
+      "ground",
+      "flying"
+    ],
     "weaknesses": [
       "electric",
       "fighting",
@@ -921,6 +1707,15 @@
   },
   {
     "colorHex": "#8B6A94",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "strengths": [
+      "grass",
+      "psychic",
+      "fairy"
+    ],
     "weaknesses": [
       "dark",
       "ghost",
@@ -931,6 +1726,15 @@
   },
   {
     "colorHex": "#736283",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "strengths": [
+      "grass",
+      "psychic",
+      "fairy"
+    ],
     "weaknesses": [
       "dark",
       "ghost",
@@ -941,6 +1745,15 @@
   },
   {
     "colorHex": "#6A628B",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "strengths": [
+      "grass",
+      "psychic",
+      "fairy"
+    ],
     "weaknesses": [
       "dark",
       "ghost",
@@ -951,6 +1764,17 @@
   },
   {
     "colorHex": "#524A5A",
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "strengths": [
+      "poison",
+      "rock",
+      "fire",
+      "electric",
+      "ice"
+    ],
     "weaknesses": [
       "grass",
       "water",
@@ -964,6 +1788,13 @@
   },
   {
     "colorHex": "#948B73",
+    "types": [
+      "psychic"
+    ],
+    "strengths": [
+      "fighting",
+      "poison"
+    ],
     "weaknesses": [
       "bug",
       "dark",
@@ -974,6 +1805,13 @@
   },
   {
     "colorHex": "#BDAC5A",
+    "types": [
+      "psychic"
+    ],
+    "strengths": [
+      "fighting",
+      "poison"
+    ],
     "weaknesses": [
       "bug",
       "dark",
@@ -984,6 +1822,14 @@
   },
   {
     "colorHex": "#9C8B8B",
+    "types": [
+      "water"
+    ],
+    "strengths": [
+      "ground",
+      "rock",
+      "fire"
+    ],
     "weaknesses": [
       "electric",
       "grass"
@@ -993,6 +1839,14 @@
   },
   {
     "colorHex": "#736A6A",
+    "types": [
+      "water"
+    ],
+    "strengths": [
+      "ground",
+      "rock",
+      "fire"
+    ],
     "weaknesses": [
       "electric",
       "grass"
@@ -1002,6 +1856,13 @@
   },
   {
     "colorHex": "#8B5A62",
+    "types": [
+      "electric"
+    ],
+    "strengths": [
+      "flying",
+      "water"
+    ],
     "weaknesses": [
       "ground"
     ],
@@ -1010,6 +1871,13 @@
   },
   {
     "colorHex": "#AC94A4",
+    "types": [
+      "electric"
+    ],
+    "strengths": [
+      "flying",
+      "water"
+    ],
     "weaknesses": [
       "ground"
     ],
@@ -1018,6 +1886,16 @@
   },
   {
     "colorHex": "#736262",
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "strengths": [
+      "fighting",
+      "ground",
+      "rock",
+      "water"
+    ],
     "weaknesses": [
       "bug",
       "dark",
@@ -1032,6 +1910,16 @@
   },
   {
     "colorHex": "#5A9C5A",
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "strengths": [
+      "fighting",
+      "ground",
+      "rock",
+      "water"
+    ],
     "weaknesses": [
       "bug",
       "dark",
@@ -1046,6 +1934,16 @@
   },
   {
     "colorHex": "#A48B5A",
+    "types": [
+      "ground"
+    ],
+    "strengths": [
+      "poison",
+      "rock",
+      "steel",
+      "fire",
+      "electric"
+    ],
     "weaknesses": [
       "grass",
       "ice",
@@ -1056,6 +1954,16 @@
   },
   {
     "colorHex": "#B4ACAC",
+    "types": [
+      "ground"
+    ],
+    "strengths": [
+      "poison",
+      "rock",
+      "steel",
+      "fire",
+      "electric"
+    ],
     "weaknesses": [
       "grass",
       "ice",
@@ -1066,6 +1974,16 @@
   },
   {
     "colorHex": "#8B7B7B",
+    "types": [
+      "fighting"
+    ],
+    "strengths": [
+      "normal",
+      "rock",
+      "steel",
+      "ice",
+      "dark"
+    ],
     "weaknesses": [
       "flying",
       "psychic",
@@ -1076,6 +1994,16 @@
   },
   {
     "colorHex": "#9494A4",
+    "types": [
+      "fighting"
+    ],
+    "strengths": [
+      "normal",
+      "rock",
+      "steel",
+      "ice",
+      "dark"
+    ],
     "weaknesses": [
       "flying",
       "psychic",
@@ -1086,6 +2014,11 @@
   },
   {
     "colorHex": "#B4838B",
+    "types": [
+      "normal"
+    ],
+    "strengths": [
+    ],
     "weaknesses": [
       "fighting"
     ],
@@ -1094,6 +2027,13 @@
   },
   {
     "colorHex": "#ACA47B",
+    "types": [
+      "poison"
+    ],
+    "strengths": [
+      "grass",
+      "fairy"
+    ],
     "weaknesses": [
       "psychic"
     ],
@@ -1102,6 +2042,13 @@
   },
   {
     "colorHex": "#736273",
+    "types": [
+      "poison"
+    ],
+    "strengths": [
+      "grass",
+      "fairy"
+    ],
     "weaknesses": [
       "psychic"
     ],
@@ -1110,6 +2057,17 @@
   },
   {
     "colorHex": "#838B94",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "strengths": [
+      "poison",
+      "rock",
+      "fire",
+      "electric",
+      "ice"
+    ],
     "weaknesses": [
       "grass",
       "water",
@@ -1123,6 +2081,17 @@
   },
   {
     "colorHex": "#7B7B8B",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "strengths": [
+      "poison",
+      "rock",
+      "fire",
+      "electric",
+      "ice"
+    ],
     "weaknesses": [
       "grass",
       "water",
@@ -1136,6 +2105,17 @@
   },
   {
     "colorHex": "#B47B83",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "strengths": [
+      "poison",
+      "rock",
+      "fire",
+      "electric",
+      "ice"
+    ],
     "weaknesses": [
       "fighting"
     ],
@@ -1144,6 +2124,14 @@
   },
   {
     "colorHex": "#4A6A83",
+    "types": [
+      "grass"
+    ],
+    "strengths": [
+      "rock",
+      "ground",
+      "water"
+    ],
     "weaknesses": [
       "bug",
       "fire",
@@ -1156,6 +2144,11 @@
   },
   {
     "colorHex": "#735A62",
+    "types": [
+      "normal"
+    ],
+    "strengths": [
+    ],
     "weaknesses": [
       "fighting"
     ],
@@ -1164,6 +2157,14 @@
   },
   {
     "colorHex": "#528BAC",
+    "types": [
+      "water"
+    ],
+    "strengths": [
+      "rock",
+      "ground",
+      "fire"
+    ],
     "weaknesses": [
       "electric",
       "grass"
@@ -1173,6 +2174,14 @@
   },
   {
     "colorHex": "#52839C",
+    "types": [
+      "water"
+    ],
+    "strengths": [
+      "rock",
+      "ground",
+      "fire"
+    ],
     "weaknesses": [
       "electric",
       "grass"
@@ -1182,6 +2191,14 @@
   },
   {
     "colorHex": "#ACA4B4",
+    "types": [
+      "water"
+    ],
+    "strengths": [
+      "rock",
+      "ground",
+      "fire"
+    ],
     "weaknesses": [
       "electric",
       "grass"
@@ -1191,6 +2208,14 @@
   },
   {
     "colorHex": "#8B8B94",
+    "types": [
+      "water"
+    ],
+    "strengths": [
+      "rock",
+      "ground",
+      "fire"
+    ],
     "weaknesses": [
       "electric",
       "grass"
@@ -1200,6 +2225,14 @@
   },
   {
     "colorHex": "#9C8B4A",
+    "types": [
+      "water"
+    ],
+    "strengths": [
+      "rock",
+      "ground",
+      "fire"
+    ],
     "weaknesses": [
       "electric",
       "grass"
@@ -1209,6 +2242,17 @@
   },
   {
     "colorHex": "#736A83",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "strengths": [
+      "fighting",
+      "poison",
+      "ground",
+      "rock",
+      "fire"
+    ],
     "weaknesses": [
       "bug",
       "dark",
@@ -1221,6 +2265,14 @@
   },
   {
     "colorHex": "#527394",
+    "types": [
+      "fairy",
+      "psychic"
+    ],
+    "strengths": [
+      "fighting",
+      "dragon"
+    ],
     "weaknesses": [
       "ghost",
       "steel",
@@ -1231,6 +2283,16 @@
   },
   {
     "colorHex": "#739C62",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "strengths": [
+      "bug",
+      "grass",
+      "psychic",
+      "dark"
+    ],
     "weaknesses": [
       "rock",
       "electric",
@@ -1243,6 +2305,16 @@
   },
   {
     "colorHex": "#9473A4",
+    "types": [
+      "ice",
+      "psychic"
+    ],
+    "strengths": [
+      "fighting",
+      "flying",
+      "poison",
+      "ground"
+    ],
     "weaknesses": [
       "bug",
       "dark",
@@ -1256,6 +2328,13 @@
   },
   {
     "colorHex": "#9C8352",
+    "types": [
+      "electric"
+    ],
+    "strengths": [
+      "flying",
+      "water"
+    ],
     "weaknesses": [
       "ground"
     ],
@@ -1264,6 +2343,15 @@
   },
   {
     "colorHex": "#AC945A",
+    "types": [
+      "fire"
+    ],
+    "strengths": [
+      "bug",
+      "steel",
+      "grass",
+      "ice"
+    ],
     "weaknesses": [
       "ground",
       "rock",
@@ -1274,6 +2362,14 @@
   },
   {
     "colorHex": "#5A4A4A",
+    "types": [
+      "bug"
+    ],
+    "strengths": [
+      "grass",
+      "psychic",
+      "dark"
+    ],
     "weaknesses": [
       "fire",
       "flying",
@@ -1284,6 +2380,11 @@
   },
   {
     "colorHex": "#5A5A83",
+    "types": [
+      "normal"
+    ],
+    "strengths": [
+    ],
     "weaknesses": [
       "fighting"
     ],
@@ -1292,6 +2393,14 @@
   },
   {
     "colorHex": "#948B8B",
+    "types": [
+      "water"
+    ],
+    "strengths": [
+      "fire",
+      "rock",
+      "ground"
+    ],
     "weaknesses": [
       "electric",
       "grass"
@@ -1301,6 +2410,16 @@
   },
   {
     "colorHex": "#5A839C",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "strengths": [
+      "fighting",
+      "ground",
+      "bug",
+      "fire"
+    ],
     "weaknesses": [
       "electric",
       "rock"
@@ -1310,6 +2429,15 @@
   },
   {
     "colorHex": "#838383",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "strengths": [
+      "flying",
+      "ground",
+      "rock"
+    ],
     "weaknesses": [
       "electric",
       "fighting",
@@ -1321,6 +2449,11 @@
   },
   {
     "colorHex": "#837394",
+    "types": [
+      "normal"
+    ],
+    "strengths": [
+    ],
     "weaknesses": [
       "fighting"
     ],
@@ -1329,6 +2462,11 @@
   },
   {
     "colorHex": "#A48B5A",
+    "types": [
+      "normal"
+    ],
+    "strengths": [
+    ],
     "weaknesses": [
       "fighting"
     ],
@@ -1337,6 +2475,14 @@
   },
   {
     "colorHex": "#62A4B4",
+    "types": [
+      "water"
+    ],
+    "strengths": [
+      "ground",
+      "rock",
+      "fire"
+    ],
     "weaknesses": [
       "electric",
       "grass"
@@ -1346,6 +2492,13 @@
   },
   {
     "colorHex": "#AC9452",
+    "types": [
+      "electric"
+    ],
+    "strengths": [
+      "flying",
+      "water"
+    ],
     "weaknesses": [
       "ground"
     ],
@@ -1354,6 +2507,15 @@
   },
   {
     "colorHex": "#AC9C62",
+    "types": [
+      "fire"
+    ],
+    "strengths": [
+      "bug",
+      "steel",
+      "grass",
+      "ice"
+    ],
     "weaknesses": [
       "ground",
       "rock",
@@ -1364,6 +2526,11 @@
   },
   {
     "colorHex": "#4A8B9C",
+    "types": [
+      "normal"
+    ],
+    "strengths": [
+    ],
     "weaknesses": [
       "fighting"
     ],
@@ -1372,6 +2539,17 @@
   },
   {
     "colorHex": "#9C946A",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "strengths": [
+      "flying",
+      "rock",
+      "bug",
+      "fire",
+      "ice"
+    ],
     "weaknesses": [
       "grass",
       "electric",
@@ -1383,6 +2561,17 @@
   },
   {
     "colorHex": "#4A8394",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "strengths": [
+      "flying",
+      "rock",
+      "bug",
+      "fire",
+      "ice"
+    ],
     "weaknesses": [
       "grass",
       "electric",
@@ -1394,6 +2583,17 @@
   },
   {
     "colorHex": "#836A41",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "strengths": [
+      "flying",
+      "rock",
+      "bug",
+      "fire",
+      "ice"
+    ],
     "weaknesses": [
       "grass",
       "electric",
@@ -1405,6 +2605,17 @@
   },
   {
     "colorHex": "#9C8B6A",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "strengths": [
+      "flying",
+      "rock",
+      "bug",
+      "fire",
+      "ice"
+    ],
     "weaknesses": [
       "grass",
       "electric",
@@ -1416,6 +2627,17 @@
   },
   {
     "colorHex": "#7B6A7B",
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "strengths": [
+      "flying",
+      "grass",
+      "bug",
+      "fire",
+      "ice"
+    ],
     "weaknesses": [
       "electric",
       "ice",
@@ -1428,6 +2650,11 @@
   },
   {
     "colorHex": "#4A7B8B",
+    "types": [
+      "normal"
+    ],
+    "strengths": [
+    ],
     "weaknesses": [
       "fighting"
     ],
@@ -1436,6 +2663,18 @@
   },
   {
     "colorHex": "#395A7B",
+    "types": [
+      "ice",
+      "flying"
+    ],
+    "strengths": [
+      "fighting",
+      "flying",
+      "ground",
+      "bug",
+      "grass",
+      "dragon"
+    ],
     "weaknesses": [
       "rock",
       "electric",
@@ -1447,6 +2686,16 @@
   },
   {
     "colorHex": "#B49C52",
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "strengths": [
+      "flying",
+      "fighting",
+      "bug",
+      "water"
+    ],
     "weaknesses": [
       "ice",
       "rock"
@@ -1456,6 +2705,16 @@
   },
   {
     "colorHex": "#8B5A52",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "strengths": [
+      "fighting",
+      "grass",
+      "bug"
+      "ice"
+    ],
     "weaknesses": [
       "rock",
       "electric",
@@ -1466,6 +2725,12 @@
   },
   {
     "colorHex": "#626AA4",
+    "types": [
+      "dragon"
+    ],
+    "strengths": [
+      "dragon"
+    ],
     "weaknesses": [
       "dragon",
       "ice",
@@ -1476,6 +2741,12 @@
   },
   {
     "colorHex": "#5A7394",
+    "types": [
+      "dragon"
+    ],
+    "strengths": [
+      "dragon"
+    ],
     "weaknesses": [
       "dragon",
       "ice",
@@ -1486,6 +2757,16 @@
   },
   {
     "colorHex": "#8B7341",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "strengths": [
+      "dragon",
+      "fighting",
+      "bug",
+      "grass"
+    ],
     "weaknesses": [
       "ice",
       "dragon",
@@ -1497,6 +2778,13 @@
   },
   {
     "colorHex": "#8B6283",
+    "types": [
+      "psychic"
+    ],
+    "strengths": [
+      "fighting",
+      "poison"
+    ],
     "weaknesses": [
       "bug",
       "dark",
@@ -1507,6 +2795,13 @@
   },
   {
     "colorHex": "#AC8394",
+    "types": [
+      "psychic"
+    ],
+    "strengths": [
+      "fighting",
+      "poison"
+    ],
     "weaknesses": [
       "bug",
       "dark",
