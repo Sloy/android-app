@@ -95,12 +95,12 @@ public class HardcodedPokemonCollection implements PokemonCollection {
                         .build(),
                 Pokemon.create()
                         .number(11)
-                        .name("Methapod")
+                        .name("Metapod")
                         .colorArgb(Color.parseColor("#90bb61"))
                         .build(),
                 Pokemon.create()
                         .number(12)
-                        .name("Buterflee")
+                        .name("Butterfree")
                         .colorArgb(Color.parseColor("#6e6987"))
                         .build()
 
